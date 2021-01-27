@@ -1,0 +1,48 @@
+.wrapper {
+  width: 500px;
+  margin: 0 auto;
+}
+
+.wrapper h1 button {
+  background-color: white;
+  border: none;
+}
+
+.products {
+  display: flex;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+}
+
+.product {
+  text-align: center;
+  padding: 20px;
+  border-radius: 10px;
+  background-color: #e5e5e5;
+  margin: 10px;
+  width: 145px;
+  box-sizing: border-box;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.product h2 {
+  font-size: 18px;
+}
+
+.product h3 {
+  font-size: 15px;
+}
+
+.product button {
+  background-color: skyblue;
+  border: none;
+  font-size: 12px;
+  padding: 5px 10px;
+}
+
+.cart p {
+  border-radius: 5px;
+  background: #e5e5e5;
+  padding: 5px;
+}
