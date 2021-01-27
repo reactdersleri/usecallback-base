@@ -23,5 +23,3 @@ Projeyi kurun.
 Projeyi çalıştırın.
 
 `npm start`
-
-[![useCallback ve React.memo kullanımı](https://i9.ytimg.com/vi_webp/iluhgn4qlrw/mqdefault.webp?time=1611732900000&sqp=CKSvxIAG&rs=AOn4CLDIKRwfI6P2JKfiHklwY9fCr7Kc2w)](https://www.youtube.com/watch?v=iluhgn4qlrw)
